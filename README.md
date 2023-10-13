@@ -13,7 +13,7 @@ Adicionar uma Senha (Opcional):
 Você pode adicionar uma senha à sua chave privada para aumentar a segurança:</br>
 ssh-keygen -p -f ~/.ssh/my-key-pair
 
-Na AWS:
+Na AWS:</br>
 Passo 1: Acesse o Console da AWS.</br>
 Passo 2: Navegue até "Services" > "EC2".</br>
 Passo 3: No painel de navegação esquerdo, clique em "Key Pairs" sob a seção "Network & Security".
